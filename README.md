@@ -1,3 +1,21 @@
+## About JobBoard-Dashboard
+
+Features :
+- CRUD
+- Soft Deletes
+- Etc.
+
+Build with :
+- PHP 8.1.6
+- Laravel 9.34.0
+- AdminLTE 3.2.0
+- Landingpage by https://www.uistore.design/items/gohub-landing-page/
+
+Database (sql) : https://drive.google.com/file/d/1IAmTH73GM8eRtmB35AugNBG38mM3jFIL/view?usp=sharing
+See the Demo here : https://youtu.be/a3S5llWa1-E
+
+## LARAVEL
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
