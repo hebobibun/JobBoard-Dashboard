@@ -11,8 +11,9 @@ Build with :
 - AdminLTE 3.2.0
 - Landingpage by https://www.uistore.design/items/gohub-landing-page/
 
-Database (sql) : https://drive.google.com/file/d/1IAmTH73GM8eRtmB35AugNBG38mM3jFIL/view?usp=sharing
-See the Demo here : https://youtu.be/a3S5llWa1-E
+Others :
+- Database (sql) : https://drive.google.com/file/d/1IAmTH73GM8eRtmB35AugNBG38mM3jFIL/view?usp=sharing
+- See the Demo here : https://youtu.be/a3S5llWa1-E
 
 ## LARAVEL
 
