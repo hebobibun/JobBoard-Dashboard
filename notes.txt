@@ -1,0 +1,27 @@
+// install auth (terminal command)
+composer require laravel/ui
+php artisan ui:auth
+php artisan migrate
+
+// Membuat file controller (Terminal Command)
+php artisan make:controller LoginController
+php artisan make:controller LandingpageController
+
+@include => impor konten file terpisah ke file saat ini di lokasi penempatannya
+@yield => menarik sebuah value dari @section
+@section => memberi value pada @yield
+@stack => menarik sebuah value dengan menggunakan @push
+@extends => untuk menurunkan layout yang ingin digunakan
+
+public
+private => file itu saja
+protected => turunan
+
+@csrf => ngirim token di form login, kalau tidak ada maka expired
+
+laravel Blade Snippet
+Laravel Goto View
+Laravel Blade Spacer
+
+php artisan make:migration create_comments_table
+php artisan make:migration add_id_news_to_comments_table --table=comments
